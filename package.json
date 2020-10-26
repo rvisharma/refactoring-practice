@@ -2,9 +2,10 @@
   "name": "refactoring-practice",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "ch1/index.js",
   "scripts": {
-    "start": "nodemon index.js",
+    "start-promise": "nodemon promises/promise.js",
+    "start": "nodemon ch1/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "events": {
